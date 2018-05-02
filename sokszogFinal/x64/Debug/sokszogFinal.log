@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\korne\source\repos\sokszogfinal\sokszogfinal\main.cpp(70): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\korne\source\repos\sokszogfinal\sokszogfinal\main.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\korne\source\repos\sokszogfinal\sokszogfinal\main.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\korne\source\repos\sokszogfinal\sokszogfinal\main.cpp(75): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\korne\source\repos\sokszogfinal\sokszogfinal\main.cpp(106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\korne\source\repos\sokszogfinal\sokszogfinal\main.cpp(110): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  sokszogFinal.vcxproj -> C:\Users\korne\source\repos\sokszogFinal\x64\Debug\sokszogFinal.exe
